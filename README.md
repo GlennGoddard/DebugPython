@@ -1,2 +1,2 @@
 # DebugPython
-Debug  for snippet for Pyton scripts
+Debug snippet for Pyton scripts
