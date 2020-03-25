@@ -9,3 +9,5 @@ Debugging screen color codes are included; this is just a section that I put in 
 This is not meant to be stand alone, the code is meant to be used inside of any other code.
 I specifically use this code on my home projects for use on headless units (ie no monitors).  I utilize SSH to display debug info.
 See other projects of mine for examples of use.
+
+I utilize MQTT for some debuging and periodic monitoring but I find the debugging to screen much faster and reliable for finding problems or testing ideas.
